@@ -4,7 +4,7 @@
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
-<p align="center"> Olhe o projeto funcionando <a href="https://gabrielroldann.github.io/projetoRocketseat/" target="_blank">aqui.</a> </p>
+<p align="center"><a href="https://gabrielroldann.github.io/projetoRocketseat/" target="_blank">Funcionamento do projeto aqui.</a> </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
